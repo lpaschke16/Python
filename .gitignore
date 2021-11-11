@@ -172,3 +172,4 @@ class Life:
                     temp_str += ' '
             print(temp_str) #can also append new lines via \n and move temp_str
                             #out of loop
+
