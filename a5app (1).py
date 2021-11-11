@@ -1,4 +1,4 @@
-"""User interface script for the module a5.
+"""User interface script.
 
 Asks the user for the seed number to use, and the width and height of Conway's
 game of life board
@@ -6,7 +6,7 @@ game of life board
 When both inputs are valid, creates a random board of requested width and height,
 and calculates the first 100 generations, printing out each generation.
 
-AUTHOR: tbg35 lnp29
+AUTHOR: Lucas Paschke
 """
 import a5
 import time
